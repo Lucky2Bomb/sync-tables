@@ -1,0 +1,1 @@
+python sync_tables_script.py
